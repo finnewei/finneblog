@@ -6,7 +6,16 @@
     <description>Recent content in 中文 on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Aug 2017 01:37:56 +0800</lastBuildDate><atom:link href="https://finnewei.github.io/finneblog/tags/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Feb 2021 22:54:03 +0800</lastBuildDate><atom:link href="https://finnewei.github.io/finneblog/tags/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[中文]你好Hugo</title>
+      <link>https://finnewei.github.io/finneblog/post/hello/</link>
+      <pubDate>Sun, 14 Feb 2021 22:54:03 +0800</pubDate>
+      
+      <guid>https://finnewei.github.io/finneblog/post/hello/</guid>
+      <description>这是我们测试的第一个md文件，中文的。 Hello 博客 github上的静态博客测试。</description>
+    </item>
+    
     <item>
       <title>[中文] 《长恨歌》</title>
       <link>https://finnewei.github.io/finneblog/post/chinese-preview/</link>
